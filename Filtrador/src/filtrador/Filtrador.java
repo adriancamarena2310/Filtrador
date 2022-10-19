@@ -10,7 +10,8 @@ public class Filtrador {
     int positivo=0,negativo=0,neutro=0;
     String num;
     double num2;
-    while(i<21){
+    while(i<10){
+        //un comentario
         num=JOptionPane.showInputDialog("Ingrese el numero "+i);
         int j=0;
         while(j<3){
