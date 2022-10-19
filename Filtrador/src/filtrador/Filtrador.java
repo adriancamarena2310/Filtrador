@@ -4,7 +4,8 @@ package filtrador;
 import javax.swing.JOptionPane;
 
 public class Filtrador {
-
+//fusion de genkidama
+    //HOLA
     public static void main(String[] args) {
     int i=1;
     int positivo=0,negativo=0,neutro=0;
