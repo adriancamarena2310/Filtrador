@@ -12,6 +12,17 @@ public class Filtrador {
     double num2;
     while(i<10){
         //un comentario
+        
+        /*
+        
+        qkfeg4efcnwekj
+        vwlefb
+        qemfjh
+        wiueguiwj
+        */
+        
+       
+        
         num=JOptionPane.showInputDialog("Ingrese el numero "+i);
         int j=0;
         while(j<3){
